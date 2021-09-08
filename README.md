@@ -12,4 +12,6 @@ This is a file which can calculate results based on room conditions and measured
 
 ## Further goals
 
-I intend to complete this program with an optional input to ask a user if they wish to calculate a result based on BS EN ISO 11654:1997, to give a single rating value for the absorption properties of the test specimen, providing mean results for the octave bands, 250, 500, 1000, 2000, and 4000 as required by the standard, with an optional 125 Hz octave band result. Then using reference values, calculating the class of the material/system and printing graphs using matplotlib. 
+I intend to complete this program with an optional input to ask a user if they wish to calculate a result based on BS EN ISO 11654:1997, to give a single rating value for the absorption properties of the test specimen, providing mean results for the octave bands, 250, 500, 1000, 2000, and 4000 as required by the standard, with an optional 125 Hz octave band result. Then using reference values, calculating the class of the material/system and printing graphs using matplotlib.
+
+Also intend to refactor the code, improve clarity and provide comments on functions
