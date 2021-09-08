@@ -2,11 +2,11 @@
 
 This is a file which can calculate results based on room conditions and measured reverberation times for BS EN ISO 354:2003, it also includes calculations required to find the power coefficient (m), which uses an attenuation (alpha) from ISO 9613:1993. This program came about due to needing to verify results for an existing excel spreadsheet in a professional acoustic testing environment. To use this for your own results analysis, follow the instructions below.
 
-###Setting Frequency Range
+### Setting Frequency Range
 
 - Finish
 
-###Entering Room Conditions
+### Entering Room Conditions
 
 - Finish
 
